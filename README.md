@@ -14,3 +14,15 @@
 - Language: Java
 - Time Complexity: O(log n)
 - Space Complexity: O(1)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
