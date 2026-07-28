@@ -20,9 +20,14 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
