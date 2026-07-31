@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
