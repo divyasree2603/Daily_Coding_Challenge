@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -53,4 +54,5 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
