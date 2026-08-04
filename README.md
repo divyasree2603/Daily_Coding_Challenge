@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0507-perfect-number) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/divyasree2603/Daily_Coding_Challenge/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
