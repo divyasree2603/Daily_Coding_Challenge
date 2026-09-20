@@ -1,0 +1,36 @@
+1. class Solution {
+    public String licenseKeyFormatting(String s, int k) {
+        int count = 0;
+        s = s.toUpperCase();
+        StringBuilder sb = new StringBuilder();
+        for(int i = s.length() - 1; i >= 0; i--){
+            char ch = s.charAt(i);
+            if(ch == '-'){
+                continue;
+            }
+            if(count == k){
+                sb.append('-');
+                count = 0;
+            }
+            sb.append(ch);
+            count++; 
+        }
+        return sb.reverse().toString();
+    }
+}
+
+2.class Solution {
+    public int findMaxConsecutiveOnes(int[] nums) {
+        int maxCnt = 0;
+        int curCnt = 0;
+        for(int n : nums){
+            if(n == 1)
+                curCnt++;
+            else{
+                maxCnt = Math.max(maxCnt, curCnt);
+                curCnt = 0;
+            }
+        }
+        return maxCnt>curCnt ? maxCnt : curCnt;
+    }
+}
